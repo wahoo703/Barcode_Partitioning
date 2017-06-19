@@ -1,5 +1,8 @@
-# Barcode_Partitioning
-A NYGC Hackathon Project Generating a Pipeline for Barcode Partitioning
+# Barcode Partitioning
+## Introduction
+BarcodePartitioning is a Python package for determining barcodes from FASTQ files. It is written to accept many different formats of barcodes and uses parallelization (DASK)
+
+## Dependencies
 
 ## Basic Usage
 ```
