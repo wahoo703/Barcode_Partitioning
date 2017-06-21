@@ -1,2 +1,2 @@
-# Barcode_Partitioning
-A NYGC Hackathon Project Generating a Pipeline for Barcode Partitioning
+# BarcSeek
+A NYGC Hackathon Project Generating a Flexible Pipeline for Barcode Partitioning for Genomic Sequencing Data
